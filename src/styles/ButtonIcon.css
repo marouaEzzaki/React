@@ -1,0 +1,14 @@
+.buttonIcon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--color-terciary);
+    border: none;
+    padding: 1em; /*em verifica que tmanio tiene el tamaño del fuente de su hijo */
+    border-radius: 8px;
+    color : var(--color-secondary)
+}
+
+.buttonIcon__icon {
+    
+}

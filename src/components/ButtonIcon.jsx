@@ -1,9 +1,13 @@
 import React from "react";
 
-export default function ButtonIcon ()  {
+export default function ButtonIcon (props)  {
     return (
 
-        <button>Hola a todos</button>
+        <button className="buttonIcon">
+            
+            <FaSearch> 
+        
+        </button>
 
     )
 }
